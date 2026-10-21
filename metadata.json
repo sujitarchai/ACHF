@@ -1,0 +1,6 @@
+{
+  "name": "5G/4G Converged Charging Function (CHF) Architecture & Studio",
+  "description": "Carrier-grade real-time 3GPP TS 32.290/32.291 Converged Charging Function (CHF), N28 PCF spending limit engine, dual-stack 5G HTTP/2 and 4G Diameter Ro mediation, tariff studio, and low-latency quota arbitration platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
